@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{5D6580470FC69195}HeritageZExpansionMod/GUI/icons/info.edds"
+ Author "bigicomputer"
+ ChangeDate 303805148
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "info.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

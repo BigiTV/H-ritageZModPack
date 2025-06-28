@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{ECCA2B4F242E13F9}HeritageZExpansionMod/GUI/icons/kos.edds"
+ Author "bigicomputer"
+ ChangeDate 337359580
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "kos.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{C7E60A95EF04E30D}HeritageZExpansionMod/GUI/LoadingScreens/loading1.edds"
+ Author "bigicomputer"
+ ChangeDate 338408156
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "loading1.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

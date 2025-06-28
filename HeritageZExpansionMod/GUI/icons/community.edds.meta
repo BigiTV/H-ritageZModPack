@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{8B91A5A51BABE2AF}HeritageZExpansionMod/GUI/icons/community.edds"
+ Author "bigicomputer"
+ ChangeDate 136032988
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "community.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

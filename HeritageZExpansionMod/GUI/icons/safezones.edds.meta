@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1172846E5B3336BD}HeritageZExpansionMod/GUI/icons/safezones.edds"
+ Author "bigicomputer"
+ ChangeDate 404468444
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "safezones.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

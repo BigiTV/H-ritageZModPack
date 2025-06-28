@@ -1,0 +1,62 @@
+[
+  {
+    "m_Headline": "Astuce de survie",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/soluce.edds",
+    "m_Description": "Pensez à faire bouillir l'eau des rivières avant de la consommer pour éviter les maladies."
+  },
+  {
+    "m_Headline": "Carnet de Bord",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/book.edds",
+    "m_Description": "Appuyez sur la touche [B] pour ouvrir votre carnet. Vous y trouverez des informations utiles et le lore du serveur HeritageZ."
+  },
+  {
+    "m_Headline": "Marqueurs 3D",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/marker.edds",
+    "m_Description": "Certains marqueurs importants sont visibles en 3D directement dans le monde. Vous pouvez les masquer ou les afficher à tout moment en appuyant sur [K]."
+  },
+  {
+    "m_Headline": "Zones Safe",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/safezones.edds",
+    "m_Description": "Dans les zones safe, lever son arme ou attaquer est désactivé. Ces zones sont faites pour commercer et se reposer en toute sécurité."
+  },
+  {
+    "m_Headline": "Communauté HeritageZ",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/community.edds",
+    "m_Description": "Rejoignez notre Discord pour échanger, poser vos questions et participer aux événements : discord.gg/HeritageZ"
+  },
+  {
+    "m_Headline": "KOS (Kill On Sight)",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/kos.edds",
+    "m_Description": "Hors des zones safe, soyez prudent ! Certains joueurs n'hésiteront pas à ouvrir le feu sans sommation."
+  },
+  {
+    "m_Headline": "Système économique",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/economy.edds",
+    "m_Description": "Notre économie récompense la prise de risque. Soyez malin, investissez avec prudence."
+  },
+  {
+    "m_Headline": "Zone hostile",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/hostile.edds",
+    "m_Description": "La zone est dangereuses. Soyez préparé."
+  },
+  {
+    "m_Headline": "Choix des factions",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/factions.edds",
+    "m_Description": "Chaque faction a son histoire et ses avantages. Rejoignez celle qui correspond à votre style de jeu."
+  },
+  {
+    "m_Headline": "Base et protection",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/base.edds",
+    "m_Description": "Construisez une base sécurisée et utilisez des pièges pour dissuader les intrus."
+  },
+  {
+    "m_Headline": "Événements spéciaux",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/events.edds",
+    "m_Description": "Des événements organisés par le staff offrent des récompenses exclusives. Surveillez les annonces."
+  },
+  {
+    "m_Headline": "Mot du staff",
+    "m_ImagePath": "HeritageZExpansionMod/GUI/icons/info.edds",
+    "m_Description": "Merci de soutenir HeritageZ. Nous travaillons chaque jour à améliorer votre expérience."
+  }
+]

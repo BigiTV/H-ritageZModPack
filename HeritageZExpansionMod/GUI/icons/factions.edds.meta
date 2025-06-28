@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{DB0C264A8BF19D2A}HeritageZExpansionMod/GUI/icons/factions.edds"
+ Author "bigicomputer"
+ ChangeDate 236696284
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "factions.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

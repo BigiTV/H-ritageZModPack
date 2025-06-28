@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{F43BF5CFBEC32B57}HeritageZExpansionMod/GUI/icons/hostile.edds"
+ Author "bigicomputer"
+ ChangeDate 270250716
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "hostile.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

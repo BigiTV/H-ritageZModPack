@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{B35E5A92F032DF46}HeritageZExpansionMod/GUI/icons/economy.edds"
+ Author "bigicomputer"
+ ChangeDate 169587420
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "economy.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

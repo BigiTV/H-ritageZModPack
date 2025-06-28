@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{A3EBC0CA422FFC3D}HeritageZExpansionMod/GUI/heritagez_logo.edds"
+ Author "bigicomputer"
+ ChangeDate 1648603868
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "heritagez_logo.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

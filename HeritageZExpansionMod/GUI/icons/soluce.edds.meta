@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{1B197D096FC02257}HeritageZExpansionMod/GUI/icons/soluce.edds"
+ Author "bigicomputer"
+ ChangeDate 438022876
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "soluce.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}

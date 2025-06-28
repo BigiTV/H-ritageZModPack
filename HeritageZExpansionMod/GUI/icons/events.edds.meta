@@ -1,0 +1,16 @@
+MetaFileClass {
+ Name "{BFAFEF535F5109D2}HeritageZExpansionMod/GUI/icons/events.edds"
+ Author "bigicomputer"
+ ChangeDate 203141852
+ Configurations {
+  PNGResourceClass PC {
+   SourceFile "events.png"
+  }
+  PNGResourceClass XBOX_ONE : PC {
+  }
+  PNGResourceClass PS4 : PC {
+  }
+  PNGResourceClass LINUX : PC {
+  }
+ }
+}
